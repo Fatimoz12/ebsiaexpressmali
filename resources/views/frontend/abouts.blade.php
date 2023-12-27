@@ -84,7 +84,7 @@
             <video class="vid" controls src="video/vfr.mp4" width="100%" height="360" ></video>
           </div>
           
-          <div class="item item--2 col-md-6">
+          <div class="item item--2 col-md-6 ">
             <video  class="vid" controls src="video/pays.mp4" width="100%" height="360" webkitallowfullscreen mozallowfullscreen allowfullscreen></video>
           </div>
           
