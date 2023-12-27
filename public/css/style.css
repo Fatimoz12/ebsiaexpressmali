@@ -1,7 +1,7 @@
 /********** Template CSS **********/
 :root {
-    --primary: #2a3c76;
-    --secondary: #ffca08;
+    --primary:  #253e77;
+    --secondary: #ffc70e;
     --light: #F6F4F9;
     --dark: #04000B;
 }
@@ -588,4 +588,72 @@ h6,
 .footer .copyright a:hover,
 .footer .footer-menu a:hover {
     color: var(--secondary);
+}
+
+
+
+ 
+
+
+  
+
+/* .containers {
+  
+    min-height: 100%;
+    width: 100%;
+    padding: 0.5rem;
+    
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-content: center;
+    align-items: center;
+  
+  }
+   */
+  /* .feature {
+    
+    display: grid;
+    padding: 0.1rem;
+    grid-template-rows: repeat(2, 1fr);
+    grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
+    column-gap: 0.5rem;
+
+    
+  } */
+  
+  /* .item  {
+    position: relative;
+      
+    margin: 0.2rem;
+    padding: 0.2rem;
+    font-size: 15rem;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    border-radius: 1rem;
+      
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    box-shadow: 0 0.1rem 0.2rem var(--light);
+    transition: all .2s;
+    
+  } */
+
+  /* .vid {
+    border-radius: 3rem;
+    padding: 0.2rem;
+    
+
+  } */
+
+ 
+
+
+
+  @media (min-width: 360px) {
+    .containers {
+        padding: 2.7rem ;
+    }
 }

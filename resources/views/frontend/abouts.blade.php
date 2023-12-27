@@ -4,24 +4,24 @@
         <div class="row g-4">
             <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
                 <div class="feature-item bg-light rounded text-center p-4">
-                    <i class="fa fa-3x fa-mail-bulk text-primary mb-4"></i>
+                    <i class="fa fa-3x fa-solid fa-leaf text-primary mb-4"></i>
                     <h5 class="mb-3">Livraison écologique
                         </h5>
-                    <p class="m-0">Chaque livraison permet d'éviter l'émission de 25kg de CO2.</p>
+                    <p class="m-0">Chaque fois qu'une livraison est effectuée, cela contribue à prévenir le rejet de 25 kilogrammes de CO2 dans l'atmosphère.</p>
                 </div>
             </div>
             <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.3s">
                 <div class="feature-item bg-light rounded text-center p-4">
-                    <i class="fa fa-3x fa-search text-primary mb-4"></i>
+                    <i class="fa fa-3x fa-solid fa-coins text-primary mb-4"></i>
                     <h5 class="mb-3">Livraison économique</h5>
-                    <p class="m-0">Jusqu’à 80% moins cher pour les gros colis, meubles et objets.</p>
+                    <p class="m-0">Pour les envois de gros colis, de meubles et d'objets, la livraison économique offre des tarifs jusqu'à 80% moins élevés.</p>
                 </div>
             </div>
             <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.5s">
                 <div class="feature-item bg-light rounded text-center p-4">
-                    <i class="fa fa-3x fa-laptop-code text-primary mb-4"></i>
+                    <i class="fa fa-3x fa-thin fa-certificate text-primary mb-4"></i>
                     <h5 class="mb-3">Assurance sérénité</h5>
-                    <p class="m-0">Tous vos envois sont assurés !</p>
+                    <p class="m-0">Toutes vos expéditions bénéficient d'une assurance !</p>
                 </div>
             </div>
         </div>
@@ -73,7 +73,44 @@
         </div>
     </div>
 </div>
-<!-- About End -->
+
+
+  <div class="container-xxl py-5 containers ">
+    <h1>Videos d'illustration</h1>
+  
+    <div class="feature">
+      {{-- <div class="item flex item--1">
+        <video width="540" height="360" controls>
+            <source src="video/vfr.mp4" type="video/mp4" />
+            <p>
+              Votre navigateur ne prend pas en charge les vidéos HTML5. Voici
+              <a href="myVideo.mp4">un lien pour télécharger la vidéo</a>.
+            </p>
+          </video>
+          
+      </div> --}}
+
+    <div class="row">
+      <div class="item item--1 col-md-6">
+        <video class="vid" controls src="video/vfr.mp4" width="100%" height="360" ></video>
+      </div>
+
+      <div class="item item--2 col-md-6">
+        <video  class="vid" controls src="video/pays.mp4" width="100%" height="360" webkitallowfullscreen mozallowfullscreen allowfullscreen></video>
+      </div>
+    </div>
+
+      
+    </div>
+  </div>
+
+
+  <!-- About End -->
+
+
+
+
+
 
 
 <!-- Facts Start -->
@@ -87,17 +124,17 @@
             </div>
             <div class="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.3s">
                 <i class="fa fa-users-cog fa-3x text-secondary mb-3"></i>
-                <h1 class="text-white mb-2" data-toggle="counter-up"> 34</h1>
+                <h1 class="text-white mb-2" data-toggle="counter-up"> 38</h1>
                 <p class="text-white mb-0"> Membres</p>
             </div>
             <div class="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.5s">
                 <i class="fa fa-users fa-3x text-secondary mb-3"></i>
-                <h1 class="text-white mb-2" data-toggle="counter-up">50</h1>
+                <h1 class="text-white mb-2" data-toggle="counter-up">100</h1>
                 <p class="text-white mb-0">Clients Satisfaits</p>
             </div>
             <div class="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.7s">
                 <i class="fa fa-check fa-3x text-secondary mb-3"></i>
-                <h1 class="text-white mb-2" data-toggle="counter-up">1200</h1>
+                <h1 class="text-white mb-2" data-toggle="counter-up">12000</h1>
                 <p class="text-white mb-0">Colis Livrés</p>
             </div>
         </div>

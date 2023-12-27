@@ -6,6 +6,7 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Mail;
 use App\Models\FormulaireData;
 use Illuminate\Support\Facades\Validator;
+use App\Mail\FormDataSubmited;
 
 class ContactController extends Controller
 {   
@@ -18,7 +19,7 @@ class ContactController extends Controller
         $validator = Validator::make($request->all(),
     [
         'full_name' => 'required',
-        'email' => 'required|email|unique:formulaire_data',
+        'email' => 'required|email',
         'object' => 'required|min:3|max:100',
         'message' => 'required',
 
@@ -46,6 +47,7 @@ class ContactController extends Controller
     // save data in the database
     $formData->save();
 
+    Mail::to('contact@ebsiaexpress.com')->send(new FormDataSubmited($request->all()));
 
     return back()->with('success', 'Merci de nous avoir contacté !');
     }

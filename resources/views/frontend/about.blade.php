@@ -16,8 +16,9 @@
 
     <!-- Navbar & Hero Start -->
     <div class="container-xxl position-relative p-0">
+
         <nav class="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0">
-            <a href="" class="navbar-brand p-0">
+            <a href="ebsiaexpress.com" class="navbar-brand p-0">
                 <img src="img/ebsia1.png" class="w-full h-60" alt="Logo">
 
             </a>
@@ -26,7 +27,7 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarCollapse">
                 <div class="navbar-nav mx-auto py-0">
-                    <a href="/" class="nav-item nav-link ">Accueil</a>
+                    <a href="/" class="nav-item nav-link">Accueil</a>
                     <a href="/about" class="nav-item nav-link active">Apropos</a>
                     <a href="/service" class="nav-item nav-link">Service</a>
                     <a href="/countries" class="nav-item nav-link">Pays</a>
@@ -37,11 +38,11 @@
                             <a href="/testimonial" class="dropdown-item">Temoignages</a>
                         </div>
                     </div>
-                    <a href="/contact" class="nav-item nav-link">Contact</a>
+                    <a href="/contact" class="nav-item nav-link ">Contact</a>
                 </div>
-                <a href="/contact" class="btn rounded-pill py-2 px-4 ms-3 d-none d-lg-block"> Nous contacter</a>
+                <a href="" class="btn rounded-pill py-2 px-4 ms-3 d-none d-lg-block"> Nous contacter</a>
             </div>
-        </nav>
+</nav> 
 
         <div class="container-xxl py-5 bg-primary hero-header">
             <div class="container my-5 py-5 px-lg-5">
