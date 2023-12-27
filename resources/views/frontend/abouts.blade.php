@@ -78,29 +78,17 @@
   <div class="container-xxl py-5 containers ">
     <h1>Videos d'illustration</h1>
   
-    <div class="feature">
-      {{-- <div class="item flex item--1">
-        <video width="540" height="360" controls>
-            <source src="video/vfr.mp4" type="video/mp4" />
-            <p>
-              Votre navigateur ne prend pas en charge les vidéos HTML5. Voici
-              <a href="myVideo.mp4">un lien pour télécharger la vidéo</a>.
-            </p>
-          </video>
+    <div class="feature row">
+
+          <div class="item item--1 col-md-6">
+            <video class="vid" controls src="video/vfr.mp4" width="100%" height="360" ></video>
+          </div>
           
-      </div> --}}
-
-    <div class="row">
-      <div class="item item--1 col-md-6">
-        <video class="vid" controls src="video/vfr.mp4" width="100%" height="360" ></video>
-      </div>
-
-      <div class="item item--2 col-md-6">
-        <video  class="vid" controls src="video/pays.mp4" width="100%" height="360" webkitallowfullscreen mozallowfullscreen allowfullscreen></video>
-      </div>
-    </div>
-
-      
+          <div class="item item--2 col-md-6">
+            <video  class="vid" controls src="video/pays.mp4" width="100%" height="360" webkitallowfullscreen mozallowfullscreen allowfullscreen></video>
+          </div>
+          
+     
     </div>
   </div>
 
