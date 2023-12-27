@@ -50,7 +50,7 @@ class FormDataSubmited extends Mailable
     public function build(): FormDataSubmited
     {
        // return $this->view('emails.form_data')->with(['data' => $this->data]);
-        return $this->from('contact@ebsiaexpress.com')->subject('Les données du formulaire    ')->view('emails.form_data');
+        return $this->from('contact@ebsiaexpress.com')->subject('Un nouveau message !    ')->view('emails.form_data');
     }
 
     /**
