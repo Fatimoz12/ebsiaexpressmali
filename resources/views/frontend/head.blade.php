@@ -31,9 +31,14 @@
 
     <!-- Template Stylesheet -->
     <link href="css/style.css" rel="stylesheet">
+
+   
+
+
+
 </head>
 
-<body class="font-[Poppins]">
+<body class="">
 
     <main>
         @yield('content')
@@ -57,6 +62,9 @@
     <script src="lib/owlcarousel/owl.carousel.min.js"></script>
     <script src="lib/isotope/isotope.pkgd.min.js"></script>
     <script src="lib/lightbox/js/lightbox.min.js"></script>
+
+
+    <script src="../path/to/flowbite/dist/flowbite.min.js"></script>
 
     <!-- Template Javascript -->
     <script src="js/main.js"></script>

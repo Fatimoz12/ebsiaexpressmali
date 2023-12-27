@@ -19,6 +19,7 @@
 
     <!-- Icon Font Stylesheet -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
 
     <!-- Libraries Stylesheet -->
@@ -31,9 +32,12 @@
 
     <!-- Template Stylesheet -->
     <link href="css/style.css" rel="stylesheet">
+
+
+
 </head>
 
-<body class="font-[Poppins]">
+<body class="">
     <div class="container-xxl bg-white p-0">
         <!-- Spinner Start -->
         {{-- <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
@@ -45,7 +49,7 @@
 
 
         <!-- Navbar & Hero Start -->
-        <div class="container-xxl position-relative p-0">
+        {{-- <div class="container-xxl position-relative p-0">
             <nav class="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0">
                 <a href="" class="navbar-brand p-0">
                     <img src="img/ebsia1.png" class="w-full h-60" alt="Logo">
@@ -55,8 +59,8 @@
                     <span class="fa fa-bars"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarCollapse">
-                    <div class="navbar-nav mx-auto py-0">
-                        <a href="/" class="nav-item nav-link active">Accueil</a>
+                    <div class="navbar-nav   mx-auto py-0">
+                        <a href="/" class=" nav-item nav-link active">Accueil</a>
                         <a href="/about" class="nav-item nav-link">Apropos</a>
                         <a href="/service" class="nav-item nav-link">Service</a>
                         <a href="/countries" class="nav-item nav-link">Pays</a>
@@ -78,7 +82,62 @@
                     <div class="row g-5 align-items-end">
                         <div class="col-lg-6 text-center text-lg-start">
                             <h1 class="text-white mb-4 animated slideInDown">Ebsia Express : votre choix numéro un pour les services logistiques ! </h1>
-                            <p class="text-white pb-3 animated slideInDown"> Ebsia Express facilite l'accès des professionnels et des particuliers à des services de logistique spécialisés dans l'import-export de produits vers et depuis l'Afrique grâce à une solution digitale clé en main leur permettant à la fois de trouver les meilleurs prix, d'améliorer leur efficacité opérationnelle et d'accéder à de nouveaux marchés à l'international.</p>
+                            <p class="text-white pb-3 animated slideInDown"> Ebsia assure la livraison de vos produits à l'échelle mondiale, avec une concentration particulière sur le continent africain, répondant ainsi aux demandes croissantes de nos clients.</p>
+                            <a href="/about" class="btn btn-secondary py-sm-3 px-sm-5 rounded-pill me-3 animated slideInLeft">En savoir plus</a>
+                            <a href="/contact" class="btn btn-light py-sm-3 px-sm-5 rounded-pill animated slideInRight">Contactez Nous</a>
+                        </div>
+                        <div class="col-lg-6 text-center text-lg-start">
+                            <img class="img-fluid animated zoomIn" src="img/front2.png" alt="">
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>  --}}
+
+
+        <div class="container-xxl position-relative p-0">
+
+
+           
+           
+          
+
+            <nav class="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0">
+                <a href="ebsiaexpress.com" class="navbar-brand p-0">
+                    <img src="img/ebsia1.png" class="w-full h-60" alt="Logo">
+    
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+                    <span class="fa fa-bars"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarCollapse">
+                    <div class="navbar-nav mx-auto py-0">
+                        <a href="/" class="nav-item nav-link active">Accueil</a>
+                        <a href="/about" class="nav-item nav-link">Apropos</a>
+                        <a href="/service" class="nav-item nav-link">Service</a>
+                        <a href="/countries" class="nav-item nav-link">Pays</a>
+                        <div class="nav-item dropdown">
+                            <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Nous</a>
+                            <div class="dropdown-menu m-0">
+                                <a href="/team" class="dropdown-item">Notre Equipe</a>
+                                <a href="/testimonial" class="dropdown-item">Temoignages</a>
+                            </div>
+                        </div>
+                        <a href="/contact" class="nav-item nav-link ">Contact</a>
+                    </div>
+                    <a href="" class="btn rounded-pill py-2 px-4 ms-3 d-none d-lg-block"> Nous contacter</a>
+                </div>
+    </nav> 
+
+
+
+            <div class="container-xxl bg-primary hero-header">
+                <div class="container px-lg-5">
+                    <div class="row g-5 align-items-end">
+                        <div class="col-lg-6 text-center text-lg-start">
+                            <h1 class="text-white mb-4 animated slideInDown">Ebsia Express : votre choix numéro un pour les services logistiques ! </h1>
+                            <p class="text-white pb-3 animated slideInDown"> Ebsia assure la livraison de vos produits à l'échelle mondiale, avec une concentration particulière sur le continent africain, répondant ainsi aux demandes croissantes de nos clients.</p>
                             <a href="/about" class="btn btn-secondary py-sm-3 px-sm-5 rounded-pill me-3 animated slideInLeft">En savoir plus</a>
                             <a href="/contact" class="btn btn-light py-sm-3 px-sm-5 rounded-pill animated slideInRight">Contactez Nous</a>
                         </div>
@@ -90,6 +149,24 @@
                 </div>
             </div>
         </div>
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+
+
+      
+
+
         <!-- Navbar & Hero End -->
       
 
@@ -167,6 +244,10 @@
     <script src="lib/owlcarousel/owl.carousel.min.js"></script>
     <script src="lib/isotope/isotope.pkgd.min.js"></script>
     <script src="lib/lightbox/js/lightbox.min.js"></script>
+
+
+
+    <script src="../path/to/flowbite/dist/flowbite.min.js"></script>
 
     <!-- Template Javascript -->
     <script src="js/main.js"></script>

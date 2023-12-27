@@ -19,7 +19,7 @@ use App\Http\Controllers\ContactController;
 //     return view('welcome');
 // });
 
-Route::get('/',[EbsiaController::class,'index']);
+Route::get('/',[EbsiaController::class,'index'])->name('home');
 
 Route::get('/about', function () {
         return view('frontend/about');

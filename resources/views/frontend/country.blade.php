@@ -27,7 +27,7 @@
                     </div>
                     <div class="bg-light p-4">
                         <p class="text-primary fw-medium mb-2">Mali </p>
-                        <h5 class="lh-base mb-0">Bamako...</a>
+                        <h5 class="lh-base mb-0">Mali et tous les pays du monde.</a>
                     </div>
                 </div>
             </div>
@@ -42,7 +42,7 @@
                     </div>
                     <div class="bg-light p-4">
                         <p class="text-primary fw-medium mb-2">France</p>
-                        <h5 class="lh-base mb-0">Paris</a>
+                        <h5 class="lh-base mb-0">France et tous les pays du monde.</a>
                     </div>
                 </div>
             </div>
@@ -57,10 +57,11 @@
                     </div>
                     <div class="bg-light p-4">
                         <p class="text-primary fw-medium mb-2">Côte d'Ivoire</p>
-                        <h5 class="lh-base mb-0">Abidjan</a>
+                        <h5 class="lh-base mb-0">Côte d'Ivoire et tous les pays du monde.</a>
                     </div>
                 </div>
             </div>
+
             <div class="col-lg-4 col-md-6 portfolio-item third wow fadeInUp" data-wow-delay="0.1s">
                 <div class="rounded overflow-hidden">
                     <div class="position-relative overflow-hidden">
@@ -86,8 +87,8 @@
                         </div>
                     </div>
                     <div class="bg-light p-4">
-                        <p class="text-primary fw-medium mb-2">Cameroon</p>
-                        <h5 class="lh-base mb-0">Yaounde</a>
+                        <p class="text-primary fw-medium mb-2">Cameroun</p>
+                        <h5 class="lh-base mb-0">Cameroun et tous les pays du monde.</a>
                     </div>
                 </div>
             </div>

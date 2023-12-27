@@ -1,11 +1,27 @@
-/** @type {import('tailwindcss').Config} */
-export default {
-  content: ["./src/**/*.{html,js}", "./node_modules/flowbite/**/*.js"],
-  theme: {
-    extend: {},
-  },
-  plugins: [
-    require('flowbite/plugin')
-  ],
-}
+// /** @type {import('tailwindcss').Config} */
+// export default {
+//   content: [
+//     "./resources/**/*.blade.php",
+//     "./resources/**/*.js",
+//     "./resources/**/*.vue",
+//   ],
+//   theme: {
+//     fontFamily: {
+//       'body': [
+//         'poppins'
+//       ]
+//     },
+
+//     colors: {
+//       // THIS IS THE ADDITIONAL COLOR STYLES
+//       primary: "#2a3c76",
+//       secondary: "#ffca08", 
+//       },
+    
+//     extend: {},
+//   },
+//   plugins: [
+//     require('flowbite/plugin')
+//   ],
+// }
 
