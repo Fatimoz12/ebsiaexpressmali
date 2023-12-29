@@ -2,7 +2,7 @@
 
 
   <div class="flex flex-wrap justify-between items-center mx-auto p-2">
-      <a href="https://ebsiaexpress.com.com" class="flex items-center space-x-1 rtl:space-x-reverse">
+      <a href="/" class="flex items-center space-x-1 rtl:space-x-reverse">
           <img src="img/ebsia1.png" class="w-full h-14" alt="Ebsia Express Logo" />
       </a>
       <div class="flex-wrap items-center space-x-12 rtl:space-x-reverse">
@@ -33,7 +33,7 @@
 
 
  <nav class="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0">
-            <a href="ebsiaexpress.com" class="navbar-brand p-0">
+            <a href="/" class="navbar-brand p-0">
                 <img src="img/ebsia1.png" class="w-full h-60" alt="Logo">
 
             </a>

@@ -43,7 +43,7 @@
         </nav> --}}
 
         <nav class="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0">
-            <a href="ebsiaexpress.com" class="navbar-brand p-0">
+            <a href="/" class="navbar-brand p-0">
                 <img src="img/ebsia1.png" class="w-full h-60" alt="Logo">
 
             </a>
@@ -123,39 +123,61 @@
                                
 
 
-                                <div class="col-12 ">
+                                <div class="col-12 " alt="Ebsia Express" title="Ebsia Express France">
                                    
-                                        <img class="img-fluid flex-shrink-0 rounded-circle" style="width: 65px; height: 65px;" src="img/france.png" alt="">
-                                        <a href="https://wa.me/33753690494">+33 7 53 69 04 94 </a>
+                                        <img class="img-fluid flex-shrink-0 rounded-circle" style="width: 65px; height: 65px;" src="img/france.png"  alt="Ebsia Express" title="Ebsia Express France">
+                                        <a href="https://wa.me/33753690494"  >+33 7 53 69 04 94 </a>
                                    
                                 </div>
-                                <div class="col-12">
+                                <div class="col-12" alt="Ebsia Express" title="Ebsia Express Mali">
                                    
                                         <img class="img-fluid flex-shrink-0 rounded-circle" style="width: 65px; height: 65px;" src="img/mali.png" alt="">
                                         <a href="https://wa.me/22396816754" >+223 96 81 67 54</a>
                                    
                                 </div>
-                                <div class="col-12">
+                                <div class="col-12" alt="Ebsia Express" title="Ebsia Express Sénégal">
                                    
                                         <img class="img-fluid flex-shrink-0 rounded-circle" style="width: 65px; height: 65px;" src="img/sen.png" alt="">
                                         <a href="https://wa.me/221785808407" >+221 78 580 84 07</a>
                                    
                                 </div>
 
-                                <div class="col-12">
+                                <div class="col-12" alt="Ebsia Express" title="Ebsia Express Côte d'Ivoire">
                                    
-                                        <img class="img-fluid flex-shrink-0 rounded-circle" style="width: 65px; height: 65px;" src="img/civ.png" alt="">
+                                        <img class="img-fluid flex-shrink-0 rounded-circle" style="width: 65px; height: 65px;" src="img/civ.png" alt="Ebsia Express" title="Ebsia Express Côte d'Ivoire">
                                         <a href="https://wa.me/2250747483122" >+225 0747483122 </a>
                                    
                                 </div>
 
-                                <div class="col-12">
+                                <div class="col-12" alt="Ebsia Express" title="Ebsia Express Cameroun">
                                    
                                         <img class="img-fluid flex-shrink-0 rounded-circle" style="width: 65px; height: 65px;" src="img/cam.png" alt="">
                                         <a href="https://wa.me/23775960439" >+237 7 596 04 39</a>
                                    
                                 </div>
                                 
+                                <div class="col-12 " alt="Ebsia Express" title="Ebsia Express DubaÏ">
+                                   
+                                    <img class="img-fluid flex-shrink-0 rounded-circle" style="width: 65px; height: 65px;" src="img/eau.png"  alt="Ebsia Express" title="Ebsia Express DubaÏ">
+                                    <a href="https://wa.me/33753690494">+33 7 53 69 04 94 </a>
+                               
+                                </div>  
+
+                                <div class="col-12" alt="Ebsia Express" title="Ebsia Express Chine">
+                                   
+                                    <img class="img-fluid flex-shrink-0 rounded-circle" style="width: 65px; height: 65px;" src="img/chi.jpg" alt="">
+                                    <a href="https://wa.me/33753690494">+33 7 53 69 04 94 </a>
+                               
+                                </div> 
+
+                                <div class="col-12" alt="Ebsia Express" title="Ebsia Express Turquie">
+                                   
+                                    <img class="img-fluid flex-shrink-0 rounded-circle" style="width: 65px; height: 65px;" src="img/turc.png" alt="Ebsia Express" title="Ebsia Express Turquie">
+                                    <a href="https://wa.me/33753690494">+33 7 53 69 04 94 </a>
+                               
+                                </div> 
+                                
+                                    
 
                                 
                                
