@@ -104,7 +104,7 @@
           
 
             <nav class="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0">
-                <a href="ebsiaexpress.com" class="navbar-brand p-0">
+                <a href="/" class="navbar-brand p-0">
                     <img src="img/ebsia1.png" class="w-full h-60" alt="Logo">
     
                 </a>
