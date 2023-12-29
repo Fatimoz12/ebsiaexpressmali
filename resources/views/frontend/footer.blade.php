@@ -39,9 +39,12 @@
                     <div class="col-4">
                         <img class="img-fluid" src="img/abidjan.jpeg" alt="Image">
                     </div>
-                    {{-- <div class="col-4">
-                        <img class="img-fluid" src="img/portfolio-6.jpg" alt="Image">
-                    </div> --}}
+                    <div class="col-4">
+                        <img class="img-fluid" src="img/chine.jpg" alt="Image">
+                    </div>
+                    <div class="col-4">
+                        <img class="img-fluid" src="img/turc.jpg" alt="Image">
+                    </div>
                 </div>
             </div>
             <div class="col-md-6 col-lg-3">
