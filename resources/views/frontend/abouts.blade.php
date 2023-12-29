@@ -81,11 +81,11 @@
 
     <div class="row">
       <div class="item item--1 col-md-6" >
-        <video  class="vid" controls src="video/vfr.mp4" width="100%" height="100%" style="border:0.2rem thick triple #253e77; border-radius:10px;" ></video>
+        <video  class="vid" controls poster="video/vfr.png" src="video/vfr.mp4" width="100%" height="100%" style="border:0.2rem thick triple #253e77; border-radius:10px;" ></video>
       </div>
 
       <div class="item item--2 col-md-6">
-        <video  class="vid" controls src="video/pays.mp4" width="100%" height="100%" style="border:2rem thick triple #253e77; border-radius:10px;" ></video>
+        <video  class="vid" controls poster="video/pays.png"  src="video/pays.mp4" width="100%" height="100%" style="border:2rem thick triple #253e77; border-radius:10px;" ></video>
       </div>
     </div>
     
