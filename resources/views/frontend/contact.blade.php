@@ -166,7 +166,7 @@
                                 <div class="col-12" alt="Ebsia Express" title="Ebsia Express Chine">
                                    
                                     <img class="img-fluid flex-shrink-0 rounded-circle" style="width: 65px; height: 65px;" src="img/chi.jpg" alt="">
-                                    <a href="https://wa.me/33753690494">+33 7 53 69 04 94 </a>
+                                    <a href="https://wa.me/8613724033174">+86 137 2403 3174 </a>
                                
                                 </div> 
 
@@ -204,14 +204,14 @@
             </div>
         </div>
 
-        <div class="container py-5 px-lg-5">
+        {{-- <div class="container py-5 px-lg-5">
             <div class="wow fadeInUp" data-wow-delay="0.1s">
                 <h1 class="text-center mb-5">Email</h1>
             </div>
             <div class="row justify-content-center">
                 <div class="col-lg-7">
                     <div class="wow fadeInUp" data-wow-delay="0.3s">
-                        {{-- <p class="text-center mb-4">The contact form is currently inactive. Get a functional and working contact form with Ajax & PHP in a few minutes. Just copy and paste the files, add a little code and you're done. <a href="https://htmlcodex.com/contact-form">Download Now</a>.</p> --}}
+                        
                         <form action="{{route('contact.process')}}" method="POST">
                             @csrf
                             <div class="row g-3">
@@ -247,7 +247,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> --}}
 
 
 
